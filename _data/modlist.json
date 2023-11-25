@@ -1,32 +1,260 @@
-﻿[
+[
   {
-    "author": "Andreas Pardeike",
-    "name": "Harmony",
-    "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "9.0.1"
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RSev",
+    "name": "Synergistic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Childrens Drawings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "psychelo",
+    "name": "kemomimihouse",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Apparel Organizer (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Ferian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Toasteh and Updated by Ogliss",
+    "name": "Veinminer R1.1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Room Sense",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cucumpear and Azrael",
+    "name": "Animal Variety Coats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Loading In Progress",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
   }
 ]
