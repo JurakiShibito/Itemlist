@@ -6,8 +6,176 @@
     "version": null
   },
   {
+    "author": "Bean",
+    "name": "Elves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "ↁ Elves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trunken",
+    "name": "Swords (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kerbeh",
+    "name": "VRE Sanguophage Medieval Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zenlor",
+    "name": "Medieval Overhaul Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "ↁ House Sanguin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Batons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tr.Vi",
+    "name": "Medieval Vehicles: War Wagon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Dwarves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mingji Lim aka WalkingProblem",
+    "name": "Lord of the Rims - Orcs and Goblins (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arisher",
+    "name": "Medievel Tailor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lavakookie",
+    "name": "Medieval Overhaul: Leather Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
     "steamId": null,
     "version": null
   },
@@ -18,14 +186,80 @@
     "version": null
   },
   {
+    "author": "Phant0m5",
+    "name": "Medieval Overhaul Deep Vein Mining",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JabbaTheTrump",
+    "name": "Medieval Overhaul - Component Replacement Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Lighting and Heat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "[-_-]",
     "name": "More Practical Traits - unofficial update",
     "steamId": null,
     "version": null
   },
   {
+    "author": "SirLalaPyon",
+    "name": "Medieval Genepacks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Verily",
+    "name": "Medieval Genepacks - Alpha Genes Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Rare Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Relic Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Serek512",
+    "name": "Medieval Fantasy Quest Rewards Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
     "steamId": null,
     "version": null
   },
@@ -42,6 +276,12 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "iwishforducks",
     "name": "Specialists Can Work!",
     "steamId": null,
@@ -54,20 +294,8 @@
     "version": null
   },
   {
-    "author": "Timuttie",
-    "name": "Just Leave Already",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
-    "name": "Vanilla Vehicles Expanded - Tier 3",
     "steamId": null,
     "version": null
   },
@@ -90,12 +318,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zylle",
     "name": "Childrens Drawings",
     "steamId": null,
@@ -110,12 +332,6 @@
   {
     "author": "psychelo",
     "name": "kemomimihouse",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
     "steamId": null,
     "version": null
   },
@@ -156,20 +372,8 @@
     "version": null
   },
   {
-    "author": "Diana(Kitty)",
-    "name": "Orassans",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
@@ -278,12 +482,6 @@
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
     "steamId": null,
     "version": null
   },
