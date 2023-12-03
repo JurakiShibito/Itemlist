@@ -30,12 +30,6 @@
     "version": null
   },
   {
-    "author": "Trunken",
-    "name": "Swords (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Ideology Patches",
     "steamId": null,
@@ -44,6 +38,12 @@
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trunken",
+    "name": "Swords (Continued)",
     "steamId": null,
     "version": null
   },
@@ -96,12 +96,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "DevDesigner",
     "name": "ↁ House Sanguin",
     "steamId": null,
@@ -120,12 +114,6 @@
     "version": null
   },
   {
-    "author": "Viral Reaction",
-    "name": "Medieval Overhaul Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sierra",
     "name": "RimFantasy - Arcane Weapons",
     "steamId": null,
@@ -140,12 +128,6 @@
   {
     "author": "Sierra",
     "name": "RimFantasy - Arcane Batons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tr.Vi",
-    "name": "Medieval Vehicles: War Wagon",
     "steamId": null,
     "version": null
   },
@@ -242,6 +224,12 @@
   {
     "author": "Serek512",
     "name": "Medieval Fantasy Quest Rewards Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tr.Vi",
+    "name": "Medieval Vehicles: War Wagon",
     "steamId": null,
     "version": null
   },
@@ -384,18 +372,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Toasteh and Updated by Ogliss",
     "name": "Veinminer R1.1",
     "steamId": null,
@@ -414,20 +390,14 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
     "steamId": null,
     "version": null
   },
@@ -444,8 +414,20 @@
     "version": null
   },
   {
+    "author": "Joe Daly",
+    "name": "Medieval Medicines 1.4 Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
     "steamId": null,
     "version": null
   },
@@ -456,8 +438,32 @@
     "version": null
   },
   {
+    "author": "Vagabond and Barsimmon",
+    "name": "Fantasy Goblins Updated",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soapie",
+    "name": "Healing Staff (Medieval Healing Gun Fork)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Ancient Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Almost There!",
     "steamId": null,
     "version": null
   },
@@ -474,6 +480,12 @@
     "version": null
   },
   {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Loading In Progress",
     "steamId": null,
@@ -482,6 +494,12 @@
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SarahLambar",
+    "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
     "steamId": null,
     "version": null
   },
