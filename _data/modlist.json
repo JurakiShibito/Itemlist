@@ -1,7 +1,67 @@
 [
   {
+    "author": "these people",
+    "name": "Custom Ritual Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FerretWithACatHat",
+    "name": "Ferret's High Fantasy Races: Standard",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Micharduio",
+    "name": "Big and Small + Prerequisites Framework [RUS] [РУС]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Divine Order",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luke_lu",
+    "name": "Co-Love Relations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Medieval Overhaul Factions",
     "steamId": null,
     "version": null
   },
@@ -30,14 +90,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
+    "author": "Zezz",
+    "name": "Precepts and Memes - Rituals module (Continued)",
     "steamId": null,
     "version": null
   },
@@ -258,20 +312,8 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Zone To Schedule",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "iwishforducks",
-    "name": "Specialists Can Work!",
     "steamId": null,
     "version": null
   },
@@ -284,12 +326,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Underground Power Conduits",
     "steamId": null,
     "version": null
   },
@@ -402,12 +438,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Waster",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Indeed",
     "name": "Stack XXL",
     "steamId": null,
@@ -468,18 +498,6 @@
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Tilled Soil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "cucumpear and Azrael",
-    "name": "Animal Variety Coats",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
@@ -492,14 +510,68 @@
     "version": null
   },
   {
+    "author": "JiJiang",
+    "name": "Medieval Overhaul : LWM's Deep Storage Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simple Stockpile Presets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "V.O.I.D. for Medieval Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Delivery Logistics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "al9000",
+    "name": "Tastier Armory - Medieval European Armors",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Romyashi",
+    "name": "Perfumes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SarahLambar",
     "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Nerf the V.O.I.D.",
     "steamId": null,
     "version": null
   },
