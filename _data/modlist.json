@@ -12,14 +12,32 @@
     "version": null
   },
   {
+    "author": "Bonible",
+    "name": "V.O.I.D. for Medieval Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small Genes",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Bonible",
+    "name": "Nerf the V.O.I.D.",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FishieFishie",
+    "name": "Remove Weather Overlays",
     "steamId": null,
     "version": null
   },
@@ -282,12 +300,6 @@
     "version": null
   },
   {
-    "author": "Tr.Vi",
-    "name": "Medieval Vehicles: War Wagon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
     "steamId": null,
@@ -421,7 +433,7 @@
   },
   {
     "author": "tikubonn",
-    "name": "DontBlockDoor",
+    "name": "Don't Block Door",
     "steamId": null,
     "version": null
   },
@@ -458,6 +470,12 @@
   {
     "author": "BotchJob",
     "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tr.Vi",
+    "name": "Medieval Vehicles: War Wagon",
     "steamId": null,
     "version": null
   },
@@ -528,12 +546,6 @@
     "version": null
   },
   {
-    "author": "Bonible",
-    "name": "V.O.I.D. for Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MrHydralisk",
     "name": "Vanilla Outposts Expanded: Delivery Logistics",
     "steamId": null,
@@ -566,12 +578,6 @@
   {
     "author": "SarahLambar",
     "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bonible",
-    "name": "Nerf the V.O.I.D.",
     "steamId": null,
     "version": null
   },

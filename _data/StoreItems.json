@@ -2686,7 +2686,7 @@
       "abr": "genebank",
       "category": "Production",
       "defname": "GeneBank",
-      "price": 213
+      "price": -10
     },
     {
       "abr": "pollutionpump",
@@ -2788,13 +2788,13 @@
       "abr": "genepack",
       "category": "Misc",
       "defname": "Genepack",
-      "price": 167
+      "price": 750
     },
     {
       "abr": "xenogerm",
       "category": "Misc",
       "defname": "Xenogerm",
-      "price": 167
+      "price": 750
     },
     {
       "abr": "architecapsule",
@@ -3352,13 +3352,13 @@
       "abr": "warriorgeneticmaterial",
       "category": "Manufactured",
       "defname": "VFEI_WarriorGenome",
-      "price": 250
+      "price": 750
     },
     {
       "abr": "royalgeneticmaterial",
       "category": "Manufactured",
       "defname": "VFEI_RoyalGenome",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "chitin",
@@ -5296,13 +5296,13 @@
       "abr": "alphapack",
       "category": "Misc",
       "defname": "AG_Alphapack",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "amber",
       "category": "Raw resources",
       "defname": "DankPyon_Amber",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "ambernecklace",
@@ -6394,7 +6394,7 @@
       "abr": "citrine",
       "category": "Raw resources",
       "defname": "DankPyon_Citrine",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "citrine",
@@ -6724,7 +6724,7 @@
       "abr": "cryptoarmor",
       "category": "ExoSuits",
       "defname": "VFEV_CryptoArmor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "cryptocrossbow",
@@ -6742,7 +6742,7 @@
       "abr": "cryptoheavyarmor",
       "category": "ExoSuits",
       "defname": "VFEV_CryptoHeavyArmor",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "cryptoheavycrossbow",
@@ -6754,7 +6754,7 @@
       "abr": "cryptohelmet",
       "category": "ExoHelmets",
       "defname": "VFEV_Apparel_CryptoLightHelmet",
-      "price": 2467
+      "price": -10
     },
     {
       "abr": "cryptopistol",
@@ -7360,7 +7360,7 @@
       "abr": "emerald",
       "category": "Raw resources",
       "defname": "DankPyon_Emerald",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "emerald",
@@ -8320,7 +8320,7 @@
       "abr": "heavycryptohelmet",
       "category": "ExoHelmets",
       "defname": "VFEV_Apparel_CryptoHeavyHelmet",
-      "price": 3133
+      "price": -10
     },
     {
       "abr": "heavyflail",
@@ -9550,7 +9550,7 @@
       "abr": "mixedpack",
       "category": "Misc",
       "defname": "AG_Mixedpack",
-      "price": 167
+      "price": 750
     },
     {
       "abr": "mixingbarrel",
@@ -9832,7 +9832,7 @@
       "abr": "onyx",
       "category": "Raw resources",
       "defname": "DankPyon_Onyx",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "onyx",
@@ -10720,7 +10720,7 @@
       "abr": "ruby",
       "category": "Raw resources",
       "defname": "DankPyon_Ruby",
-      "price": 28
+      "price": -10
     },
     {
       "abr": "ruby",
@@ -10960,7 +10960,7 @@
       "abr": "sapphire",
       "category": "Raw resources",
       "defname": "DankPyon_Sapphire",
-      "price": 22
+      "price": -10
     },
     {
       "abr": "sapphire",
@@ -13777,12 +13777,6 @@
       "price": 221
     },
     {
-      "abr": "amputator",
-      "category": "Melee weapons",
-      "defname": "RNMelee_DFAmputator_Blade",
-      "price": 3333
-    },
-    {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
@@ -14125,30 +14119,6 @@
       "price": 109
     },
     {
-      "abr": "blackleapermeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_BlackLeaper",
-      "price": 3
-    },
-    {
-      "abr": "blacktitanmeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_BlackTitan",
-      "price": 3
-    },
-    {
-      "abr": "blackwraithmeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_BlackWraith",
-      "price": 3
-    },
-    {
-      "abr": "bonemeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_Bone",
-      "price": 3
-    },
-    {
       "abr": "bonfire",
       "category": "Misc",
       "defname": "VME_Bonfire",
@@ -14179,12 +14149,6 @@
       "price": 120
     },
     {
-      "abr": "caviar",
-      "category": "Meals",
-      "defname": "RH2_Ration_Caviar",
-      "price": 50
-    },
-    {
       "abr": "cleansingconcoction",
       "category": "Grenades",
       "defname": "BotchJob_DivineOrderCleansingConcoction",
@@ -14192,21 +14156,9 @@
     },
     {
       "abr": "cloak",
-      "category": "Apparel",
-      "defname": "RHApparel_DFCloak_Poncho",
-      "price": 450
-    },
-    {
-      "abr": "cloak",
       "category": "Misc",
       "defname": "TC_Cloak",
       "price": 309
-    },
-    {
-      "abr": "cloakhood",
-      "category": "Hats",
-      "defname": "RHApparel_DFCloak_Hood",
-      "price": 144
     },
     {
       "abr": "coatofplates",
@@ -14225,96 +14177,6 @@
       "category": "Furniture",
       "defname": "RF_ColdCrystalBowl",
       "price": 286
-    },
-    {
-      "abr": "corpoarmchair",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Armchair",
-      "price": 450
-    },
-    {
-      "abr": "corpobed",
-      "category": "Furniture",
-      "defname": "RH2_CorpoBed",
-      "price": 400
-    },
-    {
-      "abr": "corpobrazier",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Brazier",
-      "price": 167
-    },
-    {
-      "abr": "corpodesk(1x2)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Desk1x2c",
-      "price": 98
-    },
-    {
-      "abr": "corpodoublebed",
-      "category": "Furniture",
-      "defname": "RH2_CorpoDoubleBed",
-      "price": 600
-    },
-    {
-      "abr": "corpodrape",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Drape",
-      "price": 608
-    },
-    {
-      "abr": "corpolamp",
-      "category": "Furniture",
-      "defname": "RH_Corpo_StandingLamp",
-      "price": -10
-    },
-    {
-      "abr": "corpolamp(blue)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_StandingLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "corpolamp(green)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_StandingLamp_Green",
-      "price": -10
-    },
-    {
-      "abr": "corpolamp(red)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_StandingLamp_Red",
-      "price": -10
-    },
-    {
-      "abr": "corpotable(1x1)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Table1x1c",
-      "price": 350
-    },
-    {
-      "abr": "corpotable(1x2)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Table1x2c",
-      "price": 98
-    },
-    {
-      "abr": "corpotable(2x4)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Table2x4c",
-      "price": 333
-    },
-    {
-      "abr": "corpseblaster",
-      "category": "Ranged weapons",
-      "defname": "RNGun_CorpseBlaster_Shotgun",
-      "price": -10
-    },
-    {
-      "abr": "corpsedestroyer",
-      "category": "Ranged weapons",
-      "defname": "RNGun_CorpseDestroyer_GPMG",
-      "price": -10
     },
     {
       "abr": "crusaderarmor",
@@ -14345,12 +14207,6 @@
       "category": "Buildings",
       "defname": "HeronCurtainTribalTriple",
       "price": 265
-    },
-    {
-      "abr": "devilhoundmeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_DevilHound",
-      "price": 3
     },
     {
       "abr": "divineorderbanner",
@@ -14509,48 +14365,6 @@
       "price": 194
     },
     {
-      "abr": "dualblade",
-      "category": "Melee weapons",
-      "defname": "RNMelee_DFDual_Blade",
-      "price": 15000
-    },
-    {
-      "abr": "duskcarbine",
-      "category": "Ranged weapons",
-      "defname": "RNGun_DuskCarbine_DMR",
-      "price": -10
-    },
-    {
-      "abr": "duskenforcer",
-      "category": "Ranged weapons",
-      "defname": "RNGun_DuskEnforcer_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "duskhelmet",
-      "category": "Headgear",
-      "defname": "RHApparel_DuskReactive_Helmet",
-      "price": 2000
-    },
-    {
-      "abr": "duskmag",
-      "category": "Ranged weapons",
-      "defname": "RNGun_DuskMAG_HMG",
-      "price": -10
-    },
-    {
-      "abr": "duskrazor",
-      "category": "Melee weapons",
-      "defname": "RNMelee_DFDuskBlade_Sword",
-      "price": 3500
-    },
-    {
-      "abr": "duskstriker",
-      "category": "Ranged weapons",
-      "defname": "RNGun_DuskStriker_Shotgun",
-      "price": -10
-    },
-    {
       "abr": "eldritchslab(broad)",
       "category": "Furniture",
       "defname": "VME_EldritchSlab_Broad",
@@ -14573,18 +14387,6 @@
       "category": "Furniture",
       "defname": "VME_EsotericismSlab_Medium",
       "price": 342
-    },
-    {
-      "abr": "evolvedlongarmsmeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_EvolvedLongArms",
-      "price": 3
-    },
-    {
-      "abr": "evolvedrumblermeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_EvolvedRumbler",
-      "price": 3
     },
     {
       "abr": "fancyfurcoat",
@@ -14743,22 +14545,10 @@
       "price": 400
     },
     {
-      "abr": "gau-19",
-      "category": "Ranged weapons",
-      "defname": "RNGun_GAU19_HMG",
-      "price": -10
-    },
-    {
-      "abr": "gaussrifle",
-      "category": "Ranged weapons",
-      "defname": "RNGun_DFGAUSSRifle_AMR",
-      "price": -10
-    },
-    {
       "abr": "geneintegrator",
       "category": "Misc",
       "defname": "BS_GeneGeneIntegrator",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "giantclub",
@@ -14771,12 +14561,6 @@
       "category": "Melee weapons",
       "defname": "BS_GiantHammer",
       "price": 1200
-    },
-    {
-      "abr": "giantspidermeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_GiantSpider",
-      "price": 3
     },
     {
       "abr": "giantsword",
@@ -14795,12 +14579,6 @@
       "category": "Armor",
       "defname": "TC_Greathelm",
       "price": 700
-    },
-    {
-      "abr": "grinder",
-      "category": "Melee weapons",
-      "defname": "RNMelee_DFGrinder_Chainsaw",
-      "price": 5417
     },
     {
       "abr": "growthray",
@@ -14905,12 +14683,6 @@
       "price": 3967
     },
     {
-      "abr": "irridiatedlongarmsmeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_IrridiatedLongArms",
-      "price": 3
-    },
-    {
       "abr": "kettlehat",
       "category": "Armor",
       "defname": "TC_KettleHat",
@@ -14933,12 +14705,6 @@
       "category": "Meals",
       "defname": "BS_MealLargeLavish",
       "price": 200
-    },
-    {
-      "abr": "longshotpp-10",
-      "category": "Ranged weapons",
-      "defname": "RNGun_Longshot_PP10AMR",
-      "price": -10
     },
     {
       "abr": "maillehoses",
@@ -14965,30 +14731,6 @@
       "price": 800
     },
     {
-      "abr": "meetingwhiteboard(charts)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Whiteboard_B",
-      "price": 442
-    },
-    {
-      "abr": "meetingwhiteboard(graphs)",
-      "category": "Furniture",
-      "defname": "RH_Corpo_Whiteboard_A",
-      "price": 442
-    },
-    {
-      "abr": "mothermeat",
-      "category": "VOID monsters",
-      "defname": "Meat_RH_DF_Mother",
-      "price": 3
-    },
-    {
-      "abr": "n-4controlimplant",
-      "category": "Voidtech",
-      "defname": "Void_SecronomControlChip",
-      "price": -10
-    },
-    {
       "abr": "nasalhelm",
       "category": "Armor",
       "defname": "TC_Nasal",
@@ -14999,12 +14741,6 @@
       "category": "Armor",
       "defname": "TC_NasalCoif",
       "price": 700
-    },
-    {
-      "abr": "nerotonin-8b",
-      "category": "Misc",
-      "defname": "RH_Nerotonin8B",
-      "price": 4667
     },
     {
       "abr": "nissecap",
@@ -15109,6 +14845,270 @@
       "price": 1000
     },
     {
+      "abr": "amputator",
+      "category": "Melee weapons",
+      "defname": "RNMelee_DFAmputator_Blade",
+      "price": 3333
+    },
+    {
+      "abr": "blackleapermeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_BlackLeaper",
+      "price": 3
+    },
+    {
+      "abr": "blacktitanmeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_BlackTitan",
+      "price": 3
+    },
+    {
+      "abr": "blackwraithmeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_BlackWraith",
+      "price": 3
+    },
+    {
+      "abr": "bonemeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_Bone",
+      "price": 3
+    },
+    {
+      "abr": "caviar",
+      "category": "Meals",
+      "defname": "RH2_Ration_Caviar",
+      "price": 50
+    },
+    {
+      "abr": "cloak",
+      "category": "Apparel",
+      "defname": "RHApparel_DFCloak_Poncho",
+      "price": 450
+    },
+    {
+      "abr": "cloakhood",
+      "category": "Hats",
+      "defname": "RHApparel_DFCloak_Hood",
+      "price": 144
+    },
+    {
+      "abr": "corpoarmchair",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Armchair",
+      "price": 450
+    },
+    {
+      "abr": "corpobed",
+      "category": "Furniture",
+      "defname": "RH2_CorpoBed",
+      "price": -10
+    },
+    {
+      "abr": "corpobrazier",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Brazier",
+      "price": 167
+    },
+    {
+      "abr": "corpodesk(1x2)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Desk1x2c",
+      "price": 98
+    },
+    {
+      "abr": "corpodoublebed",
+      "category": "Furniture",
+      "defname": "RH2_CorpoDoubleBed",
+      "price": 633
+    },
+    {
+      "abr": "corpodrape",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Drape",
+      "price": 608
+    },
+    {
+      "abr": "corpolamp",
+      "category": "Furniture",
+      "defname": "RH_Corpo_StandingLamp",
+      "price": 81
+    },
+    {
+      "abr": "corpolamp(blue)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_StandingLamp_Blue",
+      "price": 81
+    },
+    {
+      "abr": "corpolamp(green)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_StandingLamp_Green",
+      "price": 81
+    },
+    {
+      "abr": "corpolamp(red)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_StandingLamp_Red",
+      "price": 81
+    },
+    {
+      "abr": "corpotable(1x1)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Table1x1c",
+      "price": 350
+    },
+    {
+      "abr": "corpotable(1x2)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Table1x2c",
+      "price": 98
+    },
+    {
+      "abr": "corpotable(2x4)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Table2x4c",
+      "price": 333
+    },
+    {
+      "abr": "corpseblaster",
+      "category": "Ranged weapons",
+      "defname": "RNGun_CorpseBlaster_Shotgun",
+      "price": 1667
+    },
+    {
+      "abr": "corpsedestroyer",
+      "category": "Ranged weapons",
+      "defname": "RNGun_CorpseDestroyer_GPMG",
+      "price": 4167
+    },
+    {
+      "abr": "devilhoundmeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_DevilHound",
+      "price": 3
+    },
+    {
+      "abr": "dualblade",
+      "category": "Melee weapons",
+      "defname": "RNMelee_DFDual_Blade",
+      "price": 15000
+    },
+    {
+      "abr": "duskcarbine",
+      "category": "Ranged weapons",
+      "defname": "RNGun_DuskCarbine_DMR",
+      "price": 5000
+    },
+    {
+      "abr": "duskenforcer",
+      "category": "Ranged weapons",
+      "defname": "RNGun_DuskEnforcer_Revolver",
+      "price": 3333
+    },
+    {
+      "abr": "duskhelmet",
+      "category": "Headgear",
+      "defname": "RHApparel_DuskReactive_Helmet",
+      "price": 2000
+    },
+    {
+      "abr": "duskmag",
+      "category": "Ranged weapons",
+      "defname": "RNGun_DuskMAG_HMG",
+      "price": 8083
+    },
+    {
+      "abr": "duskrazor",
+      "category": "Melee weapons",
+      "defname": "RNMelee_DFDuskBlade_Sword",
+      "price": 3500
+    },
+    {
+      "abr": "duskstriker",
+      "category": "Ranged weapons",
+      "defname": "RNGun_DuskStriker_Shotgun",
+      "price": 2500
+    },
+    {
+      "abr": "evolvedlongarmsmeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_EvolvedLongArms",
+      "price": 3
+    },
+    {
+      "abr": "evolvedrumblermeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_EvolvedRumbler",
+      "price": 3
+    },
+    {
+      "abr": "gau-19",
+      "category": "Ranged weapons",
+      "defname": "RNGun_GAU19_HMG",
+      "price": 10000
+    },
+    {
+      "abr": "gaussrifle",
+      "category": "Ranged weapons",
+      "defname": "RNGun_DFGAUSSRifle_AMR",
+      "price": 8333
+    },
+    {
+      "abr": "giantspidermeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_GiantSpider",
+      "price": 3
+    },
+    {
+      "abr": "grinder",
+      "category": "Melee weapons",
+      "defname": "RNMelee_DFGrinder_Chainsaw",
+      "price": 5417
+    },
+    {
+      "abr": "irridiatedlongarmsmeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_IrridiatedLongArms",
+      "price": 3
+    },
+    {
+      "abr": "longshotpp-10",
+      "category": "Ranged weapons",
+      "defname": "RNGun_Longshot_PP10AMR",
+      "price": 5000
+    },
+    {
+      "abr": "meetingwhiteboard(charts)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Whiteboard_B",
+      "price": 442
+    },
+    {
+      "abr": "meetingwhiteboard(graphs)",
+      "category": "Furniture",
+      "defname": "RH_Corpo_Whiteboard_A",
+      "price": 442
+    },
+    {
+      "abr": "mothermeat",
+      "category": "VOID monsters",
+      "defname": "Meat_RH_DF_Mother",
+      "price": 3
+    },
+    {
+      "abr": "n-4controlimplant",
+      "category": "Voidtech",
+      "defname": "Void_SecronomControlChip",
+      "price": 1167
+    },
+    {
+      "abr": "nerotonin-8b",
+      "category": "Misc",
+      "defname": "RH_Nerotonin8B",
+      "price": 4667
+    },
+    {
       "abr": "quiver",
       "category": "Utility",
       "defname": "TC_Quiver",
@@ -15130,7 +15130,7 @@
       "abr": "reinforcedgambeson",
       "category": "Armor",
       "defname": "TC_ReinforcedGambeson",
-      "price": 1500
+      "price": 500
     },
     {
       "abr": "roidhulkmeat",
@@ -15154,13 +15154,13 @@
       "abr": "salletwithfixedvisor",
       "category": "Armor",
       "defname": "TC_SalletFixedVisor",
-      "price": 700
+      "price": 200
     },
     {
       "abr": "salletwithfixedvisor",
       "category": "Armor",
       "defname": "TC_SalletFixedVisor_UP",
-      "price": 700
+      "price": 200
     },
     {
       "abr": "scabbard(armingsword)",
@@ -15184,13 +15184,13 @@
       "abr": "shrinkray",
       "category": "Ranged weapons",
       "defname": "BMad_ShrinkRay",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "shrink-raymini-turret",
       "category": "Security",
       "defname": "BMAD_ShrinkTurret",
-      "price": -10
+      "price": 908
     },
     {
       "abr": "simplelargemeal",
@@ -15202,13 +15202,13 @@
       "abr": "skirmisherarmor",
       "category": "Armor",
       "defname": "BotchJob_DivineOrderSkirmisherArmor",
-      "price": 1500
+      "price": 692
     },
     {
       "abr": "skrýmir'smallet",
       "category": "Persona weapons",
       "defname": "BS_SkrymirHammer_Persona",
-      "price": 3500
+      "price": 5833
     },
     {
       "abr": "skrýmir'smallet",
@@ -15220,7 +15220,7 @@
       "abr": "spectaclehelmet",
       "category": "Armor",
       "defname": "TC_SpectacleHelmet",
-      "price": 700
+      "price": 219
     },
     {
       "abr": "stalkermeat",
@@ -15238,7 +15238,7 @@
       "abr": "swordofsurtr",
       "category": "Persona weapons",
       "defname": "BS_SurtrSword_Persona",
-      "price": 3500
+      "price": 5833
     },
     {
       "abr": "swordofsurtr",
@@ -15268,13 +15268,13 @@
       "abr": "v.o.i.d.helmet",
       "category": "Headgear",
       "defname": "RHApparel_VOIDReactive_Helmet",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "v.o.i.d.reactive",
       "category": "Fairview armor",
       "defname": "RHApparel_VOIDReactive_PowerArmor",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "vegetarianlargefinemeal",
@@ -15298,7 +15298,7 @@
       "abr": "voidtechpowercell",
       "category": "Special",
       "defname": "RH_VOIDPowerCell",
-      "price": 166667
+      "price": -10
     },
     {
       "abr": "voidtechskin",
@@ -15322,19 +15322,19 @@
       "abr": "warmechanti-materialrifle",
       "category": "Ranged weapons",
       "defname": "BS_JotunRifle",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "warmechmachinegun",
       "category": "Ranged weapons",
       "defname": "BS_GiantMinigun",
-      "price": -10
+      "price": 2233
     },
     {
       "abr": "warmechrocketlauncher",
       "category": "Ranged weapons",
       "defname": "BS_JotunRocketLauncher",
-      "price": -10
+      "price": 2033
     },
     {
       "abr": "wickerman",
@@ -15346,7 +15346,7 @@
       "abr": "wraithcannon",
       "category": "Ranged weapons",
       "defname": "RNGun_WraithCannon_HMG",
-      "price": -10
+      "price": 16667
     },
     {
       "abr": "wraithmeat",
@@ -15358,7 +15358,7 @@
       "abr": "xenodiscombobulator",
       "category": "Misc",
       "defname": "BS_GeneDicombobulator",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "xenogermcloner",
@@ -15370,7 +15370,7 @@
       "abr": "xeno-germlinemirroring",
       "category": "Misc",
       "defname": "BS_XenoCopy",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "zombrella",
