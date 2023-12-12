@@ -6867,7 +6867,7 @@
       "name": "whirlwind"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -6915,7 +6915,7 @@
       "name": "theprophet"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -7579,7 +7579,7 @@
       "name": "veteran"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -7707,7 +7707,7 @@
       "name": "talent:bowman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -7835,7 +7835,7 @@
       "name": "talent:swordsman"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -7951,7 +7951,7 @@
       "name": "talent:builder"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8067,7 +8067,7 @@
       "name": "talent:miner"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8183,7 +8183,7 @@
       "name": "talent:kitchenhand"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8303,7 +8303,7 @@
       "name": "talent:butcher"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8417,7 +8417,7 @@
       "name": "talent:farmer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8537,7 +8537,7 @@
       "name": "talent:herder"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8649,7 +8649,7 @@
       "name": "talent:smith"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8761,7 +8761,7 @@
       "name": "talent:tailor"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8873,7 +8873,7 @@
       "name": "talent:artist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -8999,7 +8999,7 @@
       "name": "talent:physician"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9119,7 +9119,7 @@
       "name": "talent:trader"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9235,7 +9235,7 @@
       "name": "talent:scholar"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9357,7 +9357,7 @@
       "name": "talent:groundskeeper"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9469,7 +9469,7 @@
       "name": "talent:copycat"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9597,7 +9597,7 @@
       "name": "talent:weaponsmaster"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9729,7 +9729,7 @@
       "name": "talent:hunter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9853,7 +9853,7 @@
       "name": "talent:engineer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -9979,7 +9979,7 @@
       "name": "talent:cook"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10111,7 +10111,7 @@
       "name": "talent:herbalist"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10231,7 +10231,7 @@
       "name": "talent:armourer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10361,7 +10361,7 @@
       "name": "talent:fletcher"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10493,7 +10493,7 @@
       "name": "talent:veterinarian"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10629,7 +10629,7 @@
       "name": "talent:adventurer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10759,7 +10759,7 @@
       "name": "talent:architect"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -10885,7 +10885,7 @@
       "name": "talent:chef"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11013,7 +11013,7 @@
       "name": "talent:surgeon"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11137,7 +11137,7 @@
       "name": "talent:philosopher"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11277,7 +11277,7 @@
       "name": "talent:scout"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11409,7 +11409,7 @@
       "name": "talent:recruiter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11529,7 +11529,7 @@
       "name": "talent:jack-of-all-trades"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11663,7 +11663,7 @@
       "name": "talent:hero"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -11799,7 +11799,7 @@
       "name": "talent:herald"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -12620,6 +12620,383 @@
       "enabled": true,
       "name": "Human (FA Disabled)",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 2667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 3000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+90% Toxic resistance",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 3083
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "-100% Toxic resistance",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-300.0C Minimum comfortable temperature",
+          "+0.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "-20% Toxic resistance",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 3667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-55.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 3667
     }
   ]
 }

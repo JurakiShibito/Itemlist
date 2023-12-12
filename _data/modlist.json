@@ -12,20 +12,20 @@
     "version": null
   },
   {
-    "author": "Bonible",
-    "name": "V.O.I.D. for Medieval Overhaul",
+    "author": "Harkon",
+    "name": "[HRK] Medieval deathrest coffin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Castle Walls",
     "steamId": null,
     "version": null
   },
   {
     "author": "RedMattis",
     "name": "Big and Small Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bonible",
-    "name": "Nerf the V.O.I.D.",
     "steamId": null,
     "version": null
   },
@@ -170,6 +170,12 @@
   {
     "author": "DevDesigner",
     "name": "ↁ House Sanguin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -578,6 +584,12 @@
   {
     "author": "SarahLambar",
     "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
     "steamId": null,
     "version": null
   },
