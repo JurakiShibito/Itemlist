@@ -15137,7 +15137,109 @@
 		"price": 282,
 		"category": "Misc",
 		"defname": "DeathrestBasicCoffin"
-	}
+	},
+	{
+		"abr": "deathrestroyalcoffin",
+		"price": 342,
+		"category": "Misc",
+		"defname": "DeathrestCoffin"
+	},
+	{
+		"abr": "defensetowerconnector",
+		"price": 867,
+		"category": "Security",
+		"defname": "JDS_Defense_Tower"
+	},
+	{
+		"abr": "doublebeddingset",
+		"price": 342,
+		"category": "Beddings",
+		"defname": "DoubleBedding"
+	},
+	{
+		"abr": "dragon",
+		"price": 3667,
+		"category": "Animal",
+		"defname": "MG_Dragon"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MG_Dragon"
+	},
+	{
+		"abr": "dragonscales",
+		"price": 33,
+		"category": "Raw resources",
+		"defname": "MG_Dragon_Scales"
+	},
+	{
+		"abr": "fakehorn",
+		"price": 17,
+		"category": "Prosthetic",
+		"defname": "MG_FakeHorn"
+	},
+	{
+		"abr": "faketail",
+		"price": 240,
+		"category": "Prosthetic",
+		"defname": "MG_FakeTail"
+	},
+	{
+		"abr": "forestfairydust",
+		"price": 125,
+		"category": "Manufactured",
+		"defname": "ForestFairyDust"
+	},
+	{
+		"abr": "forestfairy",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "MG_ForestFairy"
+	},
+	{
+		"abr": "forestfairymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MG_ForestFairy"
+	},
+	{
+		"abr": "foxgirl",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "MG_Foxgirl"
+	},
+	{
+		"abr": "foxgirlfur",
+		"price": 17,
+		"category": "Wools",
+		"defname": "FoxgirlFur"
+	},
+	{
+		"abr": "foxgirlmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MG_Foxgirl"
+	},
+	{
+		"abr": "furbedding",
+		"price": 242,
+		"category": "Beddings",
+		"defname": "SingleTribalBedding"
+	},
+	{
+		"abr": "gambeson",
+		"price": 280,
+		"category": "Body Armor",
+		"defname": "VAE_Apparel_Gambeson"
+	},
+	{
+		"abr": "ghilliehood",
+		"price": 124,
+		"category": "Hats",
+		"defname": "VAE_Headgear_GhillieHood"
+	},
 	],
-	"total": 2583
+	"total": 2600
 }

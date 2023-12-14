@@ -12619,7 +12619,7 @@
       "defName": "BS_FacialAnimDisabledHuman",
       "enabled": true,
       "name": "Human (FA Disabled)",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -12743,7 +12743,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -12774,7 +12774,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 2667
+      "price": 2500
     },
     {
       "data": {
@@ -12805,7 +12805,7 @@
       "defName": "MG_Slime",
       "enabled": true,
       "name": "Slime",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -12837,7 +12837,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 3083
+      "price": 2500
     },
     {
       "data": {
@@ -12868,7 +12868,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -12900,7 +12900,7 @@
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -12932,7 +12932,7 @@
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -12964,7 +12964,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3667
+      "price": 2500
     },
     {
       "data": {
@@ -12996,7 +12996,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3667
+      "price": 2500
     }
   ]
 }
