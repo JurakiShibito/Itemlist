@@ -1,67 +1,31 @@
 [
   {
-    "author": "these people",
-    "name": "Custom Ritual Framework",
+    "author": "Razar1",
+    "name": "Monstergirl Races",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Meltup and Sicarious",
-    "name": "Polyamory Beds (Vanilla Edition)",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Noxilie",
-    "name": "Polyamory Beds (Vanilla Edition) - SWB_Fix",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Medieval deathrest coffin",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Castle Walls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small Races",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FishieFishie",
-    "name": "Remove Weather Overlays",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FerretWithACatHat",
-    "name": "Ferret's High Fantasy Races: Standard",
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
     "steamId": null,
     "version": null
   },
@@ -78,62 +42,8 @@
     "version": null
   },
   {
-    "author": "Micharduio",
-    "name": "Big and Small + Prerequisites Framework [RUS] [РУС]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Divine Order",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Luke_lu",
-    "name": "Co-Love Relations",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Medieval Overhaul Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bean",
-    "name": "Elves of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ Elves",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zezz",
-    "name": "Precepts and Memes - Rituals module (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Trunken",
-    "name": "Swords (Continued)",
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
     "steamId": null,
     "version": null
   },
@@ -144,218 +54,50 @@
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimFantasy - Gemstones",
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Medicines",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
+    "author": "Rooboid",
+    "name": "Roo's Accessory Hairstyles",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+    "author": "Lanilor",
+    "name": "Simple Stockpile Presets (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Kerbeh",
-    "name": "VRE Sanguophage Medieval Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval - Material",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zenlor",
-    "name": "Medieval Overhaul Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ House Sanguin",
+    "author": "RSev",
+    "name": "Synergistic Traits",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Defences",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Batons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bean",
-    "name": "Dwarves of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mingji Lim aka WalkingProblem",
-    "name": "Lord of the Rims - Orcs and Goblins (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Arisher",
-    "name": "Medievel Tailor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lavakookie",
-    "name": "Medieval Overhaul: Leather Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Toggleable Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Phant0m5",
-    "name": "Medieval Overhaul Deep Vein Mining",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JabbaTheTrump",
-    "name": "Medieval Overhaul - Component Replacement Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Lighting and Heat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Madman666",
-    "name": "Medieval Madness: Tools of the Trade",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[-_-]",
-    "name": "More Practical Traits - unofficial update",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Genepacks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Verily",
-    "name": "Medieval Genepacks - Alpha Genes Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Relic Quests",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Serek512",
-    "name": "Medieval Fantasy Quest Rewards Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "iFlash",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Marek15",
-    "name": "Keep On Linking",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dhultgren",
-    "name": "Keep Bed Ownership",
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)",
     "steamId": null,
     "version": null
   },
@@ -367,25 +109,25 @@
   },
   {
     "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
+    "name": "Giddy-up! Caravan",
     "steamId": null,
     "version": null
   },
   {
-    "author": "RSev",
-    "name": "Synergistic Traits",
+    "author": "FishieFishie",
+    "name": "Remove Weather Overlays",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "Childrens Drawings",
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
   {
-    "author": "latta",
-    "name": "Infusion 2",
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -396,20 +138,56 @@
     "version": null
   },
   {
+    "author": "DaLLaN",
+    "name": "Hardworking animals 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo",
-    "name": "Giddy-up! Caravan",
+    "name": "Giddy-up! Ride and Roll",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Apparel Organizer (Continued)",
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
+    "author": "Ottersholdhands",
+    "name": "Fell Tribes",
     "steamId": null,
     "version": null
   },
@@ -420,8 +198,74 @@
     "version": null
   },
   {
+    "author": "these people",
+    "name": "Custom Ritual Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hatti",
     "name": "CleaningArea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luke_lu",
+    "name": "Co-Love Relations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Almost There!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Apparel Organizer (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -432,8 +276,14 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
     "version": null
   },
@@ -450,8 +300,20 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "tikubonn",
     "name": "Don't Block Door",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
@@ -462,20 +324,8 @@
     "version": null
   },
   {
-    "author": "Viral Reaction",
-    "name": "Medieval Overhaul Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Indeed",
     "name": "Stack XXL",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Medieval Medicines 1.4 Medieval Overhaul Edition",
     "steamId": null,
     "version": null
   },
@@ -486,56 +336,38 @@
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tr.Vi",
-    "name": "Medieval Vehicles: War Wagon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Room Sense",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Vagabond and Barsimmon",
-    "name": "Fantasy Goblins Updated",
+    "author": "Sam",
+    "name": "Tilled Soil",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Soapie",
-    "name": "Healing Staff (Medieval Healing Gun Fork)",
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
     "steamId": null,
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Ancient Armory",
+    "author": "[-_-]",
+    "name": "More Practical Traits - unofficial update",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
+    "author": "Zezz",
+    "name": "Precepts and Memes - Rituals module (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Almost There!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
     "version": null
   },
@@ -546,38 +378,26 @@
     "version": null
   },
   {
-    "author": "JiJiang",
-    "name": "Medieval Overhaul : LWM's Deep Storage Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simple Stockpile Presets (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Temperature Regulation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded: Delivery Logistics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "al9000",
-    "name": "Tastier Armory - Medieval European Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Noxilie",
+    "name": "Polyamory Beds (Vanilla Edition) - SWB_Fix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mouse",
+    "name": "Polyamory Beds (Trideca Bed Patch)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -588,26 +408,14 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SarahLambar",
-    "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ItsComcastic",
     "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
     "steamId": null,
     "version": null
   }
