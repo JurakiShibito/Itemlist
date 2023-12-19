@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 5000
+      "price": 3500
     },
     {
       "abr": "heart",
@@ -766,7 +766,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "component",
@@ -1528,7 +1528,7 @@
       "abr": "tornadogenerator",
       "category": "Accessories",
       "defname": "TornadoGenerator",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "dye",
@@ -2686,7 +2686,7 @@
       "abr": "genebank",
       "category": "Production",
       "defname": "GeneBank",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "pollutionpump",
@@ -2788,7 +2788,7 @@
       "abr": "genepack",
       "category": "Misc",
       "defname": "Genepack",
-      "price": 750
+      "price": 167
     },
     {
       "abr": "xenogerm",
@@ -3346,19 +3346,19 @@
       "abr": "dronegeneticmaterial",
       "category": "Manufactured",
       "defname": "VFEI_DroneGenome",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "warriorgeneticmaterial",
       "category": "Manufactured",
       "defname": "VFEI_WarriorGenome",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "royalgeneticmaterial",
       "category": "Manufactured",
       "defname": "VFEI_RoyalGenome",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "chitin",
@@ -5188,7 +5188,7 @@
       "abr": "endogenefier",
       "category": "Gene tools",
       "defname": "AG_Endogenefier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "finebake",
@@ -5224,19 +5224,19 @@
       "abr": "generemover",
       "category": "Gene tools",
       "defname": "AG_GeneRemover",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "genepackdisruptor",
       "category": "Gene tools",
       "defname": "AG_GenepackDisruptor",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "genepacktweaker",
       "category": "Gene tools",
       "defname": "AG_GenepackTweaker",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "germlinemutator",
@@ -5452,7 +5452,7 @@
       "abr": "xenogenefier",
       "category": "Gene tools",
       "defname": "AG_Xenogenefier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "xenotypeinjector",
@@ -9544,7 +9544,7 @@
       "abr": "geneintegrator",
       "category": "Misc",
       "defname": "BS_GeneGeneIntegrator",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "giantcaveconstrictor",
@@ -15601,11 +15601,23 @@
       "price": 198
     },
     {
+      "abr": "spider-person",
+      "category": "Animal",
+      "defname": "BS_SpiderPersonRace",
+      "price": 2917
+    },
+    {
+      "abr": "spider-personmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_SpiderPersonRace",
+      "price": 1
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2601
+  "total": 2603
 }

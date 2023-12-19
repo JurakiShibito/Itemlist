@@ -395,8 +395,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3250,
-      "removePrice": 3250,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
@@ -417,8 +417,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3250,
-      "removePrice": 3250,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
@@ -439,8 +439,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3250,
-      "removePrice": 3250,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
@@ -6639,7 +6639,7 @@
       "name": "diligentfighter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3250,
       "removePrice": 3250,
@@ -7545,8 +7545,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3250,
-      "removePrice": 3250,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of the opposite gender.",
       "stats": [],
@@ -7619,8 +7619,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3250,
-      "removePrice": 3250,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.",
       "stats": [],
@@ -7942,7 +7942,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "There is something about Timmy that makes predators not consider tham as prey",
+      "description": "There is something about Timmy that makes predators not consider them prey",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -8105,8 +8105,8 @@
       "name": "thrall"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8233,8 +8233,8 @@
       "name": "talent:bowman"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8361,8 +8361,8 @@
       "name": "talent:swordsman"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8477,8 +8477,8 @@
       "name": "talent:builder"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8593,8 +8593,8 @@
       "name": "talent:miner"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8709,8 +8709,8 @@
       "name": "talent:kitchenhand"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8829,8 +8829,8 @@
       "name": "talent:butcher"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -8943,8 +8943,8 @@
       "name": "talent:farmer"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9063,8 +9063,8 @@
       "name": "talent:herder"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9175,8 +9175,8 @@
       "name": "talent:smith"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9287,8 +9287,8 @@
       "name": "talent:tailor"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9399,8 +9399,8 @@
       "name": "talent:artist"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9525,8 +9525,8 @@
       "name": "talent:physician"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9645,8 +9645,8 @@
       "name": "talent:trader"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9761,8 +9761,8 @@
       "name": "talent:scholar"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9883,8 +9883,8 @@
       "name": "talent:groundskeeper"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -9995,8 +9995,8 @@
       "name": "talent:copycat"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10123,8 +10123,8 @@
       "name": "talent:weaponsmaster"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10255,8 +10255,8 @@
       "name": "talent:hunter"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10379,8 +10379,8 @@
       "name": "talent:engineer"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10505,8 +10505,8 @@
       "name": "talent:cook"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10637,8 +10637,8 @@
       "name": "talent:herbalist"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10757,8 +10757,8 @@
       "name": "talent:armourer"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -10887,8 +10887,8 @@
       "name": "talent:fletcher"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11019,9 +11019,9 @@
       "name": "talent:veterinarian"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 1,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a skilled fighter. he realised that he could protect his friends and satisfy his curiosity at the same time.",
@@ -11155,8 +11155,8 @@
       "name": "talent:adventurer"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11285,8 +11285,8 @@
       "name": "talent:architect"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11411,8 +11411,8 @@
       "name": "talent:chef"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11539,8 +11539,8 @@
       "name": "talent:surgeon"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11663,8 +11663,8 @@
       "name": "talent:philosopher"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11803,8 +11803,8 @@
       "name": "talent:scout"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -11935,8 +11935,8 @@
       "name": "talent:recruiter"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -12055,9 +12055,9 @@
       "name": "talent:jack-of-all-trades"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 1,
       "removePrice": 5500,
       "degree": 0,
       "description": "As long as Timmy still draws breath, there isn't one threat that the colony can't overcome!",
@@ -12189,8 +12189,8 @@
       "name": "talent:hero"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -12325,8 +12325,8 @@
       "name": "talent:herald"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
