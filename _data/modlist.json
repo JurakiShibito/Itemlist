@@ -1,27 +1,135 @@
 [
   {
-    "author": "these people",
-    "name": "Custom Ritual Framework",
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": "2871933948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Meltup and Sicarious",
-    "name": "Polyamory Beds (Vanilla Edition)",
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Noxilie",
-    "name": "Polyamory Beds (Vanilla Edition) - SWB_Fix",
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[RF] Rational Romance (Continued)",
+    "steamId": "2013144996",
+    "version": "1.5.0"
+  },
+  {
+    "author": "LTS",
+    "name": "Crypto Coffins",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie, Erin and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.3"
   },
   {
     "author": "UnlimitedHugs",
@@ -30,14 +138,566 @@
     "version": null
   },
   {
-    "author": "Harkon",
-    "name": "[HRK] Medieval deathrest coffin",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JangoD'soul",
-    "name": "[JDS] Castle Walls",
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haecriver",
+    "name": "Injured Carry",
+    "steamId": "2413690575",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RE6AL",
+    "name": "Absolute Legends: Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Delivery Logistics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.9.2.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.1.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo, Owlchemist and Nillas",
+    "name": "RunAndGun (1.5 Updated by Nillas)",
+    "steamId": "3221373644",
+    "version": "1.5"
+  },
+  {
+    "author": "Temmie3754",
+    "name": "ReTend",
+    "steamId": "2996971119",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.20"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Mobius",
+    "name": "Royalty Tweaks",
+    "steamId": "2018384424",
+    "version": "1.1.9.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simple Stockpile Presets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tad",
+    "name": "Trading Control",
+    "steamId": "2007107588",
+    "version": "22.3.24.17"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "RSev",
+    "name": "Synergistic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine",
+    "steamId": "1309994319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.2.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Show Mod Updates",
+    "steamId": "3218690663",
+    "version": "1.5.7"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Relevant Stats In Description",
+    "steamId": "2692669482",
+    "version": "1.5.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Romance On The Rim",
+    "steamId": "2654432921",
+    "version": "1.5.0.2"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
+  },
+  {
+    "author": "Arquebus",
+    "name": "More Persona Traits",
+    "steamId": "2863308112",
+    "version": "1.2.8840.36523"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Pawn quick info",
+    "steamId": "3078081326",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zezz",
+    "name": "Precepts and Memes (Continued)",
+    "steamId": "2894625496",
+    "version": "1.5.0"
+  },
+  {
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ilawz",
+    "name": "Mo'Events (Continued)",
+    "steamId": "2035143365",
+    "version": "1.5.0"
+  },
+  {
+    "author": "*",
+    "name": "More Practical Traits - unofficial update",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Mark For Destruction",
+    "steamId": "3011458316",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.13.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.0.0.0"
+  },
+  {
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "XandrMoro",
+    "name": "Finish it!",
+    "steamId": "3089282379",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kopp",
+    "name": "Caravan Formation Improvements",
+    "steamId": "2927335733",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "cucumpear and Azrael",
+    "name": "Animal Variety Coats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.0.0+9eaa0053b6bbb34e023e0d58f12d187010c980a4"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.7.2.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.5]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ren7z",
+    "name": "Clean Textures",
     "steamId": null,
     "version": null
   },
@@ -54,350 +714,20 @@
     "version": null
   },
   {
-    "author": "FishieFishie",
-    "name": "Remove Weather Overlays",
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FerretWithACatHat",
-    "name": "Ferret's High Fantasy Races: Standard",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Micharduio",
-    "name": "Big and Small + Prerequisites Framework [RUS] [РУС]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Divine Order",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Luke_lu",
-    "name": "Co-Love Relations",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
     "author": "RedMattis",
-    "name": "Big and Small - Medieval Overhaul Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bean",
-    "name": "Elves of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ Elves",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zezz",
-    "name": "Precepts and Memes - Rituals module (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Trunken",
-    "name": "Swords (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Legodude17",
-    "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Medicines",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kerbeh",
-    "name": "VRE Sanguophage Medieval Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval - Material",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zenlor",
-    "name": "Medieval Overhaul Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ House Sanguin",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Defences",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Arcane Batons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bean",
-    "name": "Dwarves of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mingji Lim aka WalkingProblem",
-    "name": "Lord of the Rims - Orcs and Goblins (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Arisher",
-    "name": "Medievel Tailor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lavakookie",
-    "name": "Medieval Overhaul: Leather Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Toggleable Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Phant0m5",
-    "name": "Medieval Overhaul Deep Vein Mining",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JabbaTheTrump",
-    "name": "Medieval Overhaul - Component Replacement Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Lighting and Heat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Madman666",
-    "name": "Medieval Madness: Tools of the Trade",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[-_-]",
-    "name": "More Practical Traits - unofficial update",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Genepacks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Verily",
-    "name": "Medieval Genepacks - Alpha Genes Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Relic Quests",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Serek512",
-    "name": "Medieval Fantasy Quest Rewards Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ren7z",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Marek15",
-    "name": "Keep On Linking",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dhultgren",
-    "name": "Keep Bed Ownership",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RSev",
-    "name": "Synergistic Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zylle",
-    "name": "Childrens Drawings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
-    "name": "Infusion 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "psychelo",
-    "name": "kemomimihouse",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
+    "name": "Big and Small - More Xenotypes",
     "steamId": null,
     "version": null
   },
@@ -408,213 +738,15 @@
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Toasteh and Updated by Ogliss",
-    "name": "Veinminer R1.1",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "Don't Block Door",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Viral Reaction",
-    "name": "Medieval Overhaul Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Indeed",
-    "name": "Stack XXL",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Medieval Medicines Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tr.Vi",
-    "name": "Medieval Vehicles: War Wagon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Room Sense",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vagabond and Barsimmon",
-    "name": "Fantasy Goblins Updated",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Soapie",
-    "name": "Healing Staff (Medieval Healing Gun Fork)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BotchJob",
-    "name": "Ancient Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Almost There!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Loading In Progress",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JiJiang",
-    "name": "Medieval Overhaul : LWM's Deep Storage Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simple Stockpile Presets (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Temperature Regulation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Vanilla Outposts Expanded: Delivery Logistics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "al9000",
-    "name": "Tastier Armory - Medieval European Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Romyashi",
-    "name": "Perfumes",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
+    "name": "No Version Warning",
+    "steamId": "2599504692",
+    "version": "1.5.0"
   },
   {
-    "author": "SarahLambar",
-    "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ItsComcastic",
-    "name": "Haul to Stack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mouse",
-    "name": "Polyamory Beds (Trideca Bed Patch)",
-    "steamId": null,
-    "version": null
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
   }
 ]
