@@ -12824,13 +12824,13 @@
 	},
 	{
 		"abr": "cleanerbasestation",
-		"price": 3250,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
 	{
 		"abr": "cleaningbot",
-		"price": 17,
+		"price": 300,
 		"category": "Animal",
 		"defname": "AIRobot_Cleaner"
 	},
@@ -13088,13 +13088,13 @@
 	},
 	{
 		"abr": "haulerbasestation",
-		"price": 3917,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler"
 	},
 	{
 		"abr": "haulingbot",
-		"price": 17,
+		"price": 300,
 		"category": "Animal",
 		"defname": "AIRobot_Hauler"
 	},
@@ -13781,7 +13781,169 @@
 		"price": 1000,
 		"category": "Animals",
 		"defname": "AEXP_Zebra"
+	},
+	{
+		"abr": "archotechvoicebox",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "ArchotechVoicebox"
+	},
+	{
+		"abr": "archowomb",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "Archowomb"
+	},
+	{
+		"abr": "cryptowakeimplant",
+		"price": 533,
+		"category": "Prosthetic",
+		"defname": "CryptoWakeImplant"
+	},
+	{
+		"abr": "deathrestapparatus",
+		"price": 1758,
+		"category": "Sangophage",
+		"defname": "DeathrestApparatus"
+	},
+	{
+		"abr": "deathrestcapacitor",
+		"price": 1758,
+		"category": "Sangophage",
+		"defname": "DeathrestCapacitor"
+	},
+	{
+		"abr": "hackingport",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "HackingPortImplant"
+	},
+	{
+		"abr": "hemo-fangs",
+		"price": 1758,
+		"category": "Sangophage",
+		"defname": "HemoFangs"
+	},
+	{
+		"abr": "hemogenicactivator",
+		"price": 1758,
+		"category": "Sangophage",
+		"defname": "HemogenicActivator"
+	},
+	{
+		"abr": "hemogenicmicrocompressor",
+		"price": 1758,
+		"category": "Sangophage",
+		"defname": "HemogenicMicrocompressor"
+	},
+	{
+		"abr": "internalclimatecontrol",
+		"price": 492,
+		"category": "Prosthetic",
+		"defname": "InternalClimateControlImplant"
+	},
+	{
+		"abr": "mechhivesatelliteuplink",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "MechhiveSatelliteUplink"
+	},
+	{
+		"abr": "mechwomb",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "Mechwomb"
+	},
+	{
+		"abr": "psychiclevitator",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicLevitator"
+	},
+	{
+		"abr": "psychicnullifier",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicNullifier"
+	},
+	{
+		"abr": "psychicshield",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychokeneticShield"
+	},
+	{
+		"abr": "remotedominator",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteDominator"
+	},
+	{
+		"abr": "remoteresurrector",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteResurrector"
+	},
+	{
+		"abr": "signalbooster(high)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterHigh"
+	},
+	{
+		"abr": "signalbooster(standard)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBooster"
+	},
+	{
+		"abr": "signalbooster(ultra)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterUltra"
+	},
+	{
+		"abr": "skeletalbracing",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "SkeletalBracing"
+	},
+	{
+		"abr": "smuttyfanfiction",
+		"price": 200,
+		"category": "Books",
+		"defname": "SmutFanficBook"
+	},
+	{
+		"abr": "strengthenhancer",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "StrengthEnhancer"
+	},
+	{
+		"abr": "synthmarrow",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthmarrow"
+	},
+	{
+		"abr": "synthwomb",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthwomb"
+	},
+	{
+		"abr": "techprint(basicimplants)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_I_BasicImplants"
+	},
+	{
+		"abr": "warprogrammerinterface",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "WarprogrammerInterface"
 	}
 	],
-	"total": 2297
+	"total": 2324
 }
