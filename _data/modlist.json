@@ -30,6 +30,30 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.3"
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xavior",
+    "name": "Glitter Tech",
+    "steamId": "2558099206",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
@@ -40,6 +64,24 @@
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Side1iner",
+    "name": "Traits Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - KongMD - Revolus",
+    "name": "Life Support Continued [1.1+]",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
@@ -66,14 +108,92 @@
     "version": null
   },
   {
+    "author": "Pisiunas",
+    "name": "Item Stats Tooltip",
+    "steamId": "3230465110",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hahkethomemah",
     "name": "1-2-3 Personalities M1",
     "steamId": "2527258500",
     "version": "0.0.0.0"
   },
   {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "3226161877",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "挽墨亦倾书",
+    "name": "Custom clearing of gc cache",
+    "steamId": "3193770246",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Kiame Vivacity, Taranchuk and Fishpear",
+    "name": "[1.5][KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagorbrodrigue",
+    "name": "Hardworking animals 1.5 - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.5.1"
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0"
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nimrag",
+    "name": "Smutty Fanfiction",
     "steamId": null,
     "version": null
   },
@@ -124,12 +244,6 @@
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.3"
   },
   {
     "author": "UnlimitedHugs",
@@ -441,7 +555,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.15.2.0"
+    "version": "1.15.3.0"
   },
   {
     "author": "Sandy",
@@ -453,7 +567,7 @@
     "author": "Mlie",
     "name": "Show Mod Updates",
     "steamId": "3218690663",
-    "version": "1.5.7"
+    "version": "1.5.8"
   },
   {
     "author": "Krkr",
@@ -477,7 +591,7 @@
     "author": "telardo",
     "name": "Romance On The Rim",
     "steamId": "2654432921",
-    "version": "1.5.0.2"
+    "version": "1.5.0.3"
   },
   {
     "author": "AUTOMATIC",
@@ -507,7 +621,7 @@
     "author": "Arquebus",
     "name": "More Persona Traits",
     "steamId": "2863308112",
-    "version": "1.2.8840.36523"
+    "version": "1.2.8873.37880"
   },
   {
     "author": "Andromeda",
@@ -612,12 +726,6 @@
     "version": null
   },
   {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
@@ -681,7 +789,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.2.0"
+    "version": "2.7.5.0"
   },
   {
     "author": "Oblitus",
