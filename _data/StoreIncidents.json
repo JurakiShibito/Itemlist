@@ -186,11 +186,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -436,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
