@@ -2675,7 +2675,7 @@
       "name": "coverfire"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3500,
@@ -11682,13 +11682,13 @@
           "x80% incoming damage multiplier"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Traits Plus",
         "karmaTypeForAdding": null
       },
       "defName": "S1_Fighter",
-      "name": "fighter"
+      "name": "fighter2"
     },
     {
       "canAdd": true,
