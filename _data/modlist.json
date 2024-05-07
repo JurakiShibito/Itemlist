@@ -1,9 +1,45 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0+350afc454b4f794a613c562877690c2fe8a66670"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.3.1.0"
+  },
+  {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.5.0.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.6.2.0"
+  },
+  {
+    "author": "Unreal and MarximusMaximus",
+    "name": "Same Room Lovin' (1.5)",
+    "steamId": "3235762925",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Farxmai2",
+    "name": "[FM] Apparels and Weapons Fixes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Imranfish",
@@ -36,8 +72,44 @@
     "version": "11.0.3"
   },
   {
+    "author": "ray1203",
+    "name": "SimpleCameraSetting",
+    "steamId": "3232415388",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "ItsComcastic",
     "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OMGSplat",
+    "name": "Split Genepack",
+    "steamId": "2905371517",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Snowcraft",
+    "name": "Minotaur Xenotype",
+    "steamId": "3234429575",
+    "version": "1.5.1"
+  },
+  {
+    "author": "tofudriver",
+    "name": "Medical Tab - Forked",
+    "steamId": "3228889251",
+    "version": "1.0.0+c9e8b0a81c7dae5a717c227ec63c3c3a5fd01e23"
+  },
+  {
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid",
+    "steamId": "3227665030",
+    "version": "1.5"
+  },
+  {
+    "author": "Snowcraft",
+    "name": "Minotaur Xenotype Extensions",
     "steamId": null,
     "version": null
   },
@@ -48,10 +120,112 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "GrillMaster",
+    "name": "AnomalyJoinerXenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.1.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
+  },
+  {
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "DetVisor",
+    "name": "Phase Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Meals On Wheels",
+    "steamId": "1323773476",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Cavenaugh",
+    "name": "[KV] Call Trade Ships [1.5 Patched]",
+    "steamId": "3226502149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Elseud",
+    "name": "Ion Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Basic Double Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Vectorial1024",
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
     "version": "2.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Marek15",
+    "name": "Keep On Linking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -66,8 +240,62 @@
     "version": "1.1.1.0"
   },
   {
+    "author": "Odie",
+    "name": "Better Records Tab (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chad",
+    "name": "Almostthere1.5",
+    "steamId": "3232229153",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "More Trade Ships (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkborderman",
+    "name": "More Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Riketta",
+    "name": "Reequip Weapon Upon Recovery",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tk421storm",
+    "name": "Priority Treatment Ressurected",
+    "steamId": "3009738919",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
     "steamId": null,
     "version": null
   },
@@ -90,6 +318,66 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "2.9.1"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Biological Warfare",
+    "steamId": "3221550806",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.7.8882.41522"
+  },
+  {
+    "author": "Kikohi and Sarg",
+    "name": "What's for sale?",
+    "steamId": "3203277064",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Luke_lu",
+    "name": "Co-Love Relations",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AobaKuma",
     "name": "Fortifications - Industrial",
     "steamId": null,
@@ -100,12 +388,6 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Pisiunas",
@@ -134,8 +416,26 @@
   {
     "author": "挽墨亦倾书",
     "name": "Custom clearing of gc cache",
-    "steamId": "3193770246",
-    "version": "0.1.0.0"
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Revolus",
+    "name": "What's Missing? 1.5 temp",
+    "steamId": "3231090162",
+    "version": "2024.4.25.1"
+  },
+  {
+    "author": "Romyashi",
+    "name": "Perfumes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kiame Vivacity, Taranchuk and Fishpear",
@@ -216,12 +516,6 @@
     "version": null
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
@@ -232,12 +526,6 @@
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
   },
   {
     "author": "Allie, Erin and Sarg",
@@ -256,18 +544,6 @@
     "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -345,25 +621,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.9.2.0"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.1.0-beta+01a08aed73c337ca9e39b6f749a86d35fc04a0fb"
+    "version": "3.9.5.0"
   },
   {
     "author": "Sam",
@@ -462,12 +720,6 @@
     "version": "1.0.3"
   },
   {
-    "author": "Mobius",
-    "name": "Royalty Tweaks",
-    "steamId": "2018384424",
-    "version": "1.1.9.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
@@ -552,12 +804,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
-  },
-  {
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
@@ -621,7 +867,7 @@
     "author": "Arquebus",
     "name": "More Persona Traits",
     "steamId": "2863308112",
-    "version": "1.2.8873.37880"
+    "version": "1.2.8886.35275"
   },
   {
     "author": "Andromeda",
@@ -693,7 +939,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.13.0"
+    "version": "1.12.14.0"
   },
   {
     "author": "Jaxe",
@@ -717,7 +963,7 @@
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.8.0"
+    "version": "1.0.9.0"
   },
   {
     "author": "cucumpear and Azrael",
@@ -729,13 +975,19 @@
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
-    "version": "1.0.0+9eaa0053b6bbb34e023e0d58f12d187010c980a4"
+    "version": "1.0.0+da8e08a3cfd53ebd8d6ee315d587c013eb0f4a5b"
   },
   {
     "author": "Uuugggg",
     "name": "TDS Bug Fixes",
     "steamId": "2895035527",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "traydenpoke",
+    "name": "GenesExpanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -786,12 +1038,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.7.5.0"
-  },
-  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -834,6 +1080,12 @@
     "version": "2.17.133"
   },
   {
+    "author": "Veltaris",
+    "name": "[AV] Mechanoid orbital traders",
+    "steamId": "3172198798",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small - More Xenotypes",
     "steamId": null,
@@ -842,6 +1094,12 @@
   {
     "author": "Mlie",
     "name": "Apparel Organizer (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Change Caravan Loadout (continued)",
     "steamId": null,
     "version": null
   },
@@ -856,5 +1114,11 @@
     "name": "BetterInfoCard",
     "steamId": "2890920739",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
   }
 ]
