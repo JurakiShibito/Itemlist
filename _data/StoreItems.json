@@ -556,7 +556,7 @@
       "abr": "personacore",
       "category": "Misc",
       "defname": "AIPersonaCore",
-      "price": 6667
+      "price": 10000
     },
     {
       "abr": "healermechserum",
@@ -3772,7 +3772,7 @@
       "abr": "chargeminigun",
       "category": "Charge weapons",
       "defname": "VWE_Gun_ChargeMinigun",
-      "price": 5458
+      "price": 6500
     },
     {
       "abr": "chargerocketlauncher",
@@ -5266,7 +5266,7 @@
       "abr": "personaeltexstaff",
       "category": "Persona weapons",
       "defname": "MPT_MeleeWeapon_PsyfocusStaffBladelink",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "personaextensionaffector",
@@ -9166,1111 +9166,1111 @@
       "abr": "psytrainer(acidspit)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_AcidSpit",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(adrenalinerush)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_AdrenalineRush",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(age)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Age",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(aggressiveheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_AggressiveHeatDump",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(animalallies)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_AnimalAllies",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(assassinate)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Assassinate",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(balllightning)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BallLightning",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Beckon",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(bendprobability)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BendProbability",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BerserkPulse",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Berserk",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(bladefocus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BladeFocus",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BlindingPulse",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(bliss)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Bliss",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(blizzard)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Blizzard",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(bolt)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Bolt",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(bramblemaze)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BrambleMaze",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(breatheflame)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BreatheFlame",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(breatheice)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceBreath",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Burden",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(chainbolt)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ChainBolt",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ChaosSkip",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(chargeandskewer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_ChargeAndSkewer",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(chemfuelnodules)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_ChemfuelNodules",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Chunkskip",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(clawfrenzy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_ClawFrenzy",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(coldzone)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ColdZone",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(concentratedlight)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Laser",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(conjureheatpearls)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ConjureHeatPearls",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(consumebodies)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ConsumeBodies",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(controlledfrenzy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ControlledFrenzy",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(corpsetalk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Corpsetalk",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(craftpsyring)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_CraftPsyRing",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(crafttimeskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_CraftTimeskip",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(cropburst)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_CropBurst",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(darkness)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Darkness",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(darkvision)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Darkvision",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(deathshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Deathshield",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(decoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Decoy",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(destroyeyes)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_StrikeEyes",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(disablingstrike)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_DisablingStrike",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(drainpsyessence)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_DrainPsyessence",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(eclipse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Eclipse",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(electrify)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Electrify",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(empblow)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_EmpBlow",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(enchantquality)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_EnchantQuality",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(energydump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_EnergyDump",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(enthrall)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Enthrall",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(essencetransfer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_EssenceTransfer",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(explosion)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Explosion",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(extinguishflames)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_QuenchFlames",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(eyeblast)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_EyeBlast",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Farskip",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(fatalblow)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_FatalBlow",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(firebeam)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FireBeam",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(fireshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FireShield",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(firetornado)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FlameTornado",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(firingfocus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FiringFocus",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(flameball)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Flameball",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(flashstorm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Flashstorm",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Focus",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(frostray)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FrostRay",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(fungalskin)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_FungalSkin",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(ghostwalk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Ghostwalk",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(greaterocularsprout)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_GreaterOcularSprout",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(grouplink)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_GroupLink",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(guardianskipbarrier)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_GuardianSkipbarrier",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(guidedshot)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_GuidedShot",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(haywire)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Haywire",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(healthswap)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_HealthSwap",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(heatfocus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_HeatFocus",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(hover)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Hover",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(hurricane)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Hurricane",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(iceblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceBlock",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(icecrystal)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceCrystal",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(iceshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceShield",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(icespike)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceSpike",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(icewall)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceWall",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(intensifyshadows)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IntensifyShadows",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Invisibility",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(killskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Killskip",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(ko)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_KO",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(leapingcharge)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Charge",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(legskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_LegSkip",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(liferot)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Liferot",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(lightsustenance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_LightSustenance",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(locationswap)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_LocationSwap",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(lucktransfer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_LuckTransfer",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ManhunterPulse",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(massbeckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MassBeckon",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MassChaosSkip",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(masshallucination)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MassHallucination",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(mend)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Mend",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(meteorshower)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MeteorShower",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(mindbreak)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MindBreak",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(mindcontrol)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Mindcontrol",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(mindwipe)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_MindWipe",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(neuralheatdetonation)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_NeuralHeatDetonation",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(neuralheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_NeuralHeatDump",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(neuroquake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Neuroquake",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(nightstep)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Nightstep",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(obscure)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Obscure",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(oculareruption)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_EyeEruption",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(ocularsprout)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_OcularSprout",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(overshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Overshield",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Painblock",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(paralysispulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ParalysisPulse",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(planttimeskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PlantTimeskip",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(powerleap)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PowerLeap",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(power)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Power",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(psychicdrone)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PsychicDrone",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(psychicguidance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PsychicGuidance",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(psychicshock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PsychicShock",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(psychicsooth(female))",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SootheFemale",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(psychicsooth(male))",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SootheMale",
-      "price": 2333
+      "price": 23332332
     },
     {
       "abr": "psytrainer(raidpause)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_RaidPause",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(recharge)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Recharge",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(regeneration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Regeneration",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(regrowlimbs)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_RegrowLimbs",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(resurrect)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Resurrect",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(reunionfarskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ReunionFarskip",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(reverseengineer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ReverseEngineer",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(rockconstruct)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_RockConstruct",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(savagepsychicslice)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Slice",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(seasontimeskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SeasonTimeskip",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(selfexplosion)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SelfExplosion",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(shadowfocus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ShadowFocus",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(shadowskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Shadowskip",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(shieldanimals)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_ShieldAnimals",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(shrineshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Shrineshield",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(skewer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_Skewer",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(skillroll)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SkillRoll",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Skip",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(skipdoor)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Skipdoor",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Skipshield",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Smokepop",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(snapfreeze)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SnapFreeze",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SolarPinhole",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(speedboost)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SpeedBoost",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(spincut)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SpinCut",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(stabilize)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Stabilize",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(staticaura)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_StaticAura",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(staticpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_StaticPulse",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(stealvitality)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_StealVitality",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(steelconstruct)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SteelConstruct",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(strengtheninsect)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_StrengthenInsect",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Stun",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonblackqueen)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonBlackQueen",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonblackscarab)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonBlackScarab",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonblackspelopede)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonBlackSpelopede",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonblackspider)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonBlackSpider",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonentrancetothehive)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonHive",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summoneyelinghorde)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonEyelingHorde",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(summoneyeling)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonEyeling",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonmammothworm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonMammothWorm",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonocularoriginator)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonOcularOriginator",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(summonpack)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SummonPack",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(thunderbolt)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Thunderbolt",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(timereversal)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TimeReversal",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(timesphere)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TimeSphere",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(timequake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Timequake",
-      "price": 3333
+      "price": 3000
     },
     {
       "abr": "psytrainer(timeskipmeditation)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TimeskipMeditation",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(transmutation)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Transmutation",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(transmutestone)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TransmuteStone",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(treesprout)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TreeSprout",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(venomspit)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_VenomSpit",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(vortex)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Vortex",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Wallraise",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Waterskip",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(webslinging)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_WebSlinging",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofalliance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofAlliance",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofanimals)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofAnimals",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordoffear)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofFear",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofforetelling)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofForetelling",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofhealing)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofHealing",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofimmunity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofImmunity",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofInspiration",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofjoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofJoy",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordoflove)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofLove",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofpain)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofPain",
-      "price": 2333
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofproductivity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofProductivity",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofprogress)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofProgress",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofprotection)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofProtection",
-      "price": 2833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofSerenity",
-      "price": 1833
+      "price": 3000
     },
     {
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofTrust",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "rabbitcat",
@@ -12670,7 +12670,7 @@
       "abr": "ocdefenserifle",
       "category": "Ranged weapons",
       "defname": "Gun_OCPDRifle",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "orioncorpdefenseshield",
