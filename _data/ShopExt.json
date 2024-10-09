@@ -1901,7 +1901,7 @@
       "name": "prisonguard"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3500,
@@ -1926,13 +1926,13 @@
           "x115% social impact"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
         "karmaTypeForAdding": null
       },
       "defName": "SN_Priest",
-      "name": "priest"
+      "name": "priest2"
     },
     {
       "canAdd": true,
